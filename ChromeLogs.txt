@@ -1,1 +1,137 @@
-Object,Function,Array,Number,parseFloat,parseInt,Infinity,NaN,undefined,Boolean,String,Symbol,Date,Promise,RegExp,Error,AggregateError,EvalError,RangeError,ReferenceError,SyntaxError,TypeError,URIError,globalThis,JSON,Math,console,Intl,ArrayBuffer,Uint8Array,Int8Array,Uint16Array,Int16Array,Uint32Array,Int32Array,Float32Array,Float64Array,Uint8ClampedArray,BigUint64Array,BigInt64Array,DataView,Map,BigInt,Set,WeakMap,WeakSet,Proxy,Reflect,FinalizationRegistry,WeakRef,decodeURI,decodeURIComponent,encodeURI,encodeURIComponent,escape,unescape,eval,isFinite,isNaN,Option,Image,Audio,webkitURL,webkitRTCPeerConnection,webkitMediaStream,WebKitMutationObserver,WebKitCSSMatrix,XPathResult,XPathExpression,XPathEvaluator,XMLSerializer,XMLHttpRequestUpload,XMLHttpRequestEventTarget,XMLHttpRequest,XMLDocument,WritableStreamDefaultWriter,WritableStreamDefaultController,WritableStream,Worker,Window,WheelEvent,WebSocket,WebGLVertexArrayObject,WebGLUniformLocation,WebGLTransformFeedback,WebGLTexture,WebGLSync,WebGLShaderPrecisionFormat,WebGLShader,WebGLSampler,WebGLRenderingContext,WebGLRenderbuffer,WebGLQuery,WebGLProgram,WebGLFramebuffer,WebGLContextEvent,WebGLBuffer,WebGLActiveInfo,WebGL2RenderingContext,WaveShaperNode,VisualViewport,ValidityState,VTTCue,UserActivation,URLSearchParams,URL,UIEvent,TreeWalker,TransitionEvent,TransformStream,TrackEvent,TouchList,TouchEvent,Touch,TimeRanges,TextTrackList,TextTrackCueList,TextTrackCue,TextTrack,TextMetrics,TextEvent,TextEncoderStream,TextEncoder,TextDecoderStream,TextDecoder,Text,TaskAttributionTiming,SyncManager,SubmitEvent,StyleSheetList,StyleSheet,StylePropertyMapReadOnly,StylePropertyMap,StorageEvent,Storage,StereoPannerNode,StaticRange,ShadowRoot,Selection,SecurityPolicyViolationEvent,ScriptProcessorNode,ScreenOrientation,Screen,SVGViewElement,SVGUseElement,SVGUnitTypes,SVGTransformList,SVGTransform,SVGTitleElement,SVGTextPositioningElement,SVGTextPathElement,SVGTextElement,SVGTextContentElement,SVGTSpanElement,SVGSymbolElement,SVGSwitchElement,SVGStyleElement,SVGStringList,SVGStopElement,SVGSetElement,SVGScriptElement,SVGSVGElement,SVGRectElement,SVGRect,SVGRadialGradientElement,SVGPreserveAspectRatio,SVGPolylineElement,SVGPolygonElement,SVGPointList,SVGPoint,SVGPatternElement,SVGPathElement,SVGNumberList,SVGNumber,SVGMetadataElement,SVGMatrix,SVGMaskElement,SVGMarkerElement,SVGMPathElement,SVGLinearGradientElement,SVGLineElement,SVGLengthList,SVGLength,SVGImageElement,SVGGraphicsElement,SVGGradientElement,SVGGeometryElement,SVGGElement,SVGForeignObjectElement,SVGFilterElement,SVGFETurbulenceElement,SVGFETileElement,SVGFESpotLightElement,SVGFESpecularLightingElement,SVGFEPointLightElement,SVGFEOffsetElement,SVGFEMorphologyElement,SVGFEMergeNodeElement,SVGFEMergeElement,SVGFEImageElement,SVGFEGaussianBlurElement,SVGFEFuncRElement,SVGFEFuncGElement,SVGFEFuncBElement,SVGFEFuncAElement,SVGFEFloodElement,SVGFEDropShadowElement,SVGFEDistantLightElement,SVGFEDisplacementMapElement,SVGFEDiffuseLightingElement,SVGFEConvolveMatrixElement,SVGFECompositeElement,SVGFEComponentTransferElement,SVGFEColorMatrixElement,SVGFEBlendElement,SVGEllipseElement,SVGElement,SVGDescElement,SVGDefsElement,SVGComponentTransferFunctionElement,SVGClipPathElement,SVGCircleElement,SVGAnimationElement,SVGAnimatedTransformList,SVGAnimatedString,SVGAnimatedRect,SVGAnimatedPreserveAspectRatio,SVGAnimatedNumberList,SVGAnimatedNumber,SVGAnimatedLengthList,SVGAnimatedLength,SVGAnimatedInteger,SVGAnimatedEnumeration,SVGAnimatedBoolean,SVGAnimatedAngle,SVGAnimateTransformElement,SVGAnimateMotionElement,SVGAnimateElement,SVGAngle,SVGAElement,Response,ResizeObserverSize,ResizeObserverEntry,ResizeObserver,Request,ReportingObserver,ReadableStreamDefaultReader,ReadableStreamDefaultController,ReadableStreamBYOBRequest,ReadableStreamBYOBReader,ReadableStream,ReadableByteStreamController,Range,RadioNodeList,RTCTrackEvent,RTCStatsReport,RTCSessionDescription,RTCSctpTransport,RTCRtpTransceiver,RTCRtpSender,RTCRtpReceiver,RTCPeerConnectionIceEvent,RTCPeerConnectionIceErrorEvent,RTCPeerConnection,RTCIceCandidate,RTCErrorEvent,RTCError,RTCEncodedVideoFrame,RTCEncodedAudioFrame,RTCDtlsTransport,RTCDataChannelEvent,RTCDataChannel,RTCDTMFToneChangeEvent,RTCDTMFSender,RTCCertificate,PromiseRejectionEvent,ProgressEvent,ProcessingInstruction,PopStateEvent,PointerEvent,PluginArray,Plugin,PeriodicWave,PerformanceTiming,PerformanceServerTiming,PerformanceResourceTiming,PerformancePaintTiming,PerformanceObserverEntryList,PerformanceObserver,PerformanceNavigationTiming,PerformanceNavigation,PerformanceMeasure,PerformanceMark,PerformanceLongTaskTiming,PerformanceEventTiming,PerformanceEntry,PerformanceElementTiming,Performance,Path2D,PannerNode,PageTransitionEvent,OverconstrainedError,OscillatorNode,OffscreenCanvasRenderingContext2D,OffscreenCanvas,OfflineAudioContext,OfflineAudioCompletionEvent,NodeList,NodeIterator,NodeFilter,Node,NetworkInformation,Navigator,NamedNodeMap,MutationRecord,MutationObserver,MutationEvent,MouseEvent,MimeTypeArray,MimeType,MessagePort,MessageEvent,MessageChannel,MediaStreamTrackEvent,MediaStreamTrack,MediaStreamEvent,MediaStreamAudioSourceNode,MediaStreamAudioDestinationNode,MediaStream,MediaRecorder,MediaQueryListEvent,MediaQueryList,MediaList,MediaError,MediaEncryptedEvent,MediaElementAudioSourceNode,MediaCapabilities,Location,LayoutShiftAttribution,LayoutShift,LargestContentfulPaint,KeyframeEffect,KeyboardEvent,IntersectionObserverEntry,IntersectionObserver,InputEvent,InputDeviceInfo,InputDeviceCapabilities,ImageData,ImageCapture,ImageBitmapRenderingContext,ImageBitmap,IdleDeadline,IIRFilterNode,IDBVersionChangeEvent,IDBTransaction,IDBRequest,IDBOpenDBRequest,IDBObjectStore,IDBKeyRange,IDBIndex,IDBFactory,IDBDatabase,IDBCursorWithValue,IDBCursor,History,Headers,HashChangeEvent,HTMLVideoElement,HTMLUnknownElement,HTMLUListElement,HTMLTrackElement,HTMLTitleElement,HTMLTimeElement,HTMLTextAreaElement,HTMLTemplateElement,HTMLTableSectionElement,HTMLTableRowElement,HTMLTableElement,HTMLTableColElement,HTMLTableCellElement,HTMLTableCaptionElement,HTMLStyleElement,HTMLSpanElement,HTMLSourceElement,HTMLSlotElement,HTMLSelectElement,HTMLScriptElement,HTMLQuoteElement,HTMLProgressElement,HTMLPreElement,HTMLPictureElement,HTMLParamElement,HTMLParagraphElement,HTMLOutputElement,HTMLOptionsCollection,HTMLOptionElement,HTMLOptGroupElement,HTMLObjectElement,HTMLOListElement,HTMLModElement,HTMLMeterElement,HTMLMetaElement,HTMLMenuElement,HTMLMediaElement,HTMLMarqueeElement,HTMLMapElement,HTMLLinkElement,HTMLLegendElement,HTMLLabelElement,HTMLLIElement,HTMLInputElement,HTMLImageElement,HTMLIFrameElement,HTMLHtmlElement,HTMLHeadingElement,HTMLHeadElement,HTMLHRElement,HTMLFrameSetElement,HTMLFrameElement,HTMLFormElement,HTMLFormControlsCollection,HTMLFontElement,HTMLFieldSetElement,HTMLEmbedElement,HTMLElement,HTMLDocument,HTMLDivElement,HTMLDirectoryElement,HTMLDialogElement,HTMLDetailsElement,HTMLDataListElement,HTMLDataElement,HTMLDListElement,HTMLCollection,HTMLCanvasElement,HTMLButtonElement,HTMLBodyElement,HTMLBaseElement,HTMLBRElement,HTMLAudioElement,HTMLAreaElement,HTMLAnchorElement,HTMLAllCollection,GeolocationPositionError,GeolocationPosition,GeolocationCoordinates,Geolocation,GamepadHapticActuator,GamepadEvent,GamepadButton,Gamepad,GainNode,FormDataEvent,FormData,FontFaceSetLoadEvent,FontFace,FocusEvent,FileReader,FileList,File,FeaturePolicy,External,EventTarget,EventSource,EventCounts,Event,ErrorEvent,ElementInternals,Element,DynamicsCompressorNode,DragEvent,DocumentType,DocumentFragment,Document,DelayNode,DecompressionStream,DataTransferItemList,DataTransferItem,DataTransfer,DOMTokenList,DOMStringMap,DOMStringList,DOMRectReadOnly,DOMRectList,DOMRect,DOMQuad,DOMPointReadOnly,DOMPoint,DOMParser,DOMMatrixReadOnly,DOMMatrix,DOMImplementation,DOMException,DOMError,CustomEvent,CustomElementRegistry,Crypto,CountQueuingStrategy,ConvolverNode,ConstantSourceNode,CompressionStream,CompositionEvent,Comment,CloseEvent,ClipboardEvent,CharacterData,ChannelSplitterNode,ChannelMergerNode,CanvasRenderingContext2D,CanvasPattern,CanvasGradient,CanvasCaptureMediaStreamTrack,CSSVariableReferenceValue,CSSUnparsedValue,CSSUnitValue,CSSTranslate,CSSTransformValue,CSSTransformComponent,CSSSupportsRule,CSSStyleValue,CSSStyleSheet,CSSStyleRule,CSSStyleDeclaration,CSSSkewY,CSSSkewX,CSSSkew,CSSScale,CSSRuleList,CSSRule,CSSRotate,CSSPropertyRule,CSSPositionValue,CSSPerspective,CSSPageRule,CSSNumericValue,CSSNumericArray,CSSNamespaceRule,CSSMediaRule,CSSMatrixComponent,CSSMathValue,CSSMathSum,CSSMathProduct,CSSMathNegate,CSSMathMin,CSSMathMax,CSSMathInvert,CSSKeywordValue,CSSKeyframesRule,CSSKeyframeRule,CSSImportRule,CSSImageValue,CSSGroupingRule,CSSFontFaceRule,CSSCounterStyleRule,CSSConditionRule,CSS,CDATASection,ByteLengthQueuingStrategy,BroadcastChannel,BlobEvent,Blob,BiquadFilterNode,BeforeUnloadEvent,BeforeInstallPromptEvent,BatteryManager,BaseAudioContext,BarProp,AudioWorkletNode,AudioScheduledSourceNode,AudioProcessingEvent,AudioParamMap,AudioParam,AudioNode,AudioListener,AudioDestinationNode,AudioContext,AudioBufferSourceNode,AudioBuffer,Attr,AnimationEvent,AnimationEffect,Animation,AnalyserNode,AbstractRange,AbortSignal,AbortController,window,self,document,name,location,customElements,history,locationbar,menubar,personalbar,scrollbars,statusbar,toolbar,status,closed,frames,length,top,opener,parent,frameElement,navigator,origin,external,screen,innerWidth,innerHeight,scrollX,pageXOffset,scrollY,pageYOffset,visualViewport,screenX,screenY,outerWidth,outerHeight,devicePixelRatio,event,clientInformation,offscreenBuffering,screenLeft,screenTop,defaultStatus,defaultstatus,styleMedia,onsearch,isSecureContext,performance,onappinstalled,onbeforeinstallprompt,crypto,indexedDB,webkitStorageInfo,sessionStorage,localStorage,onbeforexrselect,onabort,onblur,oncancel,oncanplay,oncanplaythrough,onchange,onclick,onclose,oncontextmenu,oncuechange,ondblclick,ondrag,ondragend,ondragenter,ondragleave,ondragover,ondragstart,ondrop,ondurationchange,onemptied,onended,onerror,onfocus,onformdata,oninput,oninvalid,onkeydown,onkeypress,onkeyup,onload,onloadeddata,onloadedmetadata,onloadstart,onmousedown,onmouseenter,onmouseleave,onmousemove,onmouseout,onmouseover,onmouseup,onmousewheel,onpause,onplay,onplaying,onprogress,onratechange,onreset,onresize,onscroll,onsecuritypolicyviolation,onseeked,onseeking,onselect,onslotchange,onstalled,onsubmit,onsuspend,ontimeupdate,ontoggle,onvolumechange,onwaiting,onwebkitanimationend,onwebkitanimationiteration,onwebkitanimationstart,onwebkittransitionend,onwheel,onauxclick,ongotpointercapture,onlostpointercapture,onpointerdown,onpointermove,onpointerup,onpointercancel,onpointerover,onpointerout,onpointerenter,onpointerleave,onselectstart,onselectionchange,onanimationend,onanimationiteration,onanimationstart,ontransitionrun,ontransitionstart,ontransitionend,ontransitioncancel,onafterprint,onbeforeprint,onbeforeunload,onhashchange,onlanguagechange,onmessage,onmessageerror,onoffline,ononline,onpagehide,onpageshow,onpopstate,onrejectionhandled,onstorage,onunhandledrejection,onunload,alert,atob,blur,btoa,cancelAnimationFrame,cancelIdleCallback,captureEvents,clearInterval,clearTimeout,close,confirm,createImageBitmap,fetch,find,focus,getComputedStyle,getSelection,matchMedia,moveBy,moveTo,open,postMessage,print,prompt,queueMicrotask,releaseEvents,reportError,requestAnimationFrame,requestIdleCallback,resizeBy,resizeTo,scroll,scrollBy,scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,Atomics,chrome,WebAssembly,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,AbsoluteOrientationSensor,Accelerometer,AudioWorklet,Cache,CacheStorage,Clipboard,ClipboardItem,CookieChangeEvent,CookieStore,CookieStoreManager,Credential,CredentialsContainer,CryptoKey,DeviceMotionEvent,DeviceMotionEventAcceleration,DeviceMotionEventRotationRate,DeviceOrientationEvent,FederatedCredential,Gyroscope,Keyboard,KeyboardLayoutMap,LinearAccelerationSensor,Lock,LockManager,MIDIAccess,MIDIConnectionEvent,MIDIInput,MIDIInputMap,MIDIMessageEvent,MIDIOutput,MIDIOutputMap,MIDIPort,MediaDeviceInfo,MediaDevices,MediaKeyMessageEvent,MediaKeySession,MediaKeyStatusMap,MediaKeySystemAccess,MediaKeys,NavigationPreloadManager,NavigatorManagedData,OrientationSensor,PasswordCredential,RTCIceTransport,RelativeOrientationSensor,Sensor,SensorErrorEvent,ServiceWorker,ServiceWorkerContainer,ServiceWorkerRegistration,StorageManager,SubtleCrypto,Worklet,XRDOMOverlayState,XRLayer,XRWebGLBinding,AudioData,EncodedAudioChunk,EncodedVideoChunk,ImageTrack,ImageTrackList,VideoColorSpace,VideoFrame,AudioDecoder,AudioEncoder,ImageDecoder,VideoDecoder,VideoEncoder,AuthenticatorAssertionResponse,AuthenticatorAttestationResponse,AuthenticatorResponse,PublicKeyCredential,BarcodeDetector,Bluetooth,BluetoothCharacteristicProperties,BluetoothDevice,BluetoothRemoteGATTCharacteristic,BluetoothRemoteGATTDescriptor,BluetoothRemoteGATTServer,BluetoothRemoteGATTService,EyeDropper,FileSystemDirectoryHandle,FileSystemFileHandle,FileSystemHandle,FileSystemWritableFileStream,FragmentDirective,GravitySensor,HID,HIDConnectionEvent,HIDDevice,HIDInputReportEvent,IdleDetector,MediaStreamTrackGenerator,MediaStreamTrackProcessor,OTPCredential,PaymentAddress,PaymentRequest,PaymentResponse,PaymentMethodChangeEvent,Presentation,PresentationAvailability,PresentationConnection,PresentationConnectionAvailableEvent,PresentationConnectionCloseEvent,PresentationConnectionList,PresentationReceiver,PresentationRequest,Profiler,Scheduling,Serial,SerialPort,USB,USBAlternateInterface,USBConfiguration,USBConnectionEvent,USBDevice,USBEndpoint,USBInTransferResult,USBInterface,USBIsochronousInTransferPacket,USBIsochronousInTransferResult,USBIsochronousOutTransferPacket,USBIsochronousOutTransferResult,USBOutTransferResult,VirtualKeyboard,WakeLock,WakeLockSentinel,WebTransport,WebTransportBidirectionalStream,WebTransportDatagramDuplexStream,WebTransportError,XRAnchor,XRAnchorSet,XRBoundedReferenceSpace,XRFrame,XRInputSource,XRInputSourceArray,XRInputSourceEvent,XRInputSourcesChangeEvent,XRPose,XRReferenceSpace,XRReferenceSpaceEvent,XRRenderState,XRRigidTransform,XRSession,XRSessionEvent,XRSpace,XRSystem,XRView,XRViewerPose,XRViewport,XRWebGLLayer,XRCPUDepthInformation,XRDepthInformation,XRWebGLDepthInformation,XRHitTestResult,XRHitTestSource,XRRay,XRTransientInputHitTestResult,XRTransientInputHitTestSource,XRLightEstimate,XRLightProbe,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,trustedTypes,speechSynthesis,onpointerrawupdate,crossOriginIsolated,scheduler,AnimationPlaybackEvent,AnimationTimeline,CSSAnimation,CSSTransition,DocumentTimeline,BackgroundFetchManager,BackgroundFetchRecord,BackgroundFetchRegistration,BluetoothUUID,CustomStateSet,DelegatedInkTrailPresenter,Ink,MediaMetadata,MediaSession,MediaSource,SourceBuffer,SourceBufferList,NavigatorUAData,Notification,PaymentInstruments,PaymentManager,PaymentRequestUpdateEvent,PeriodicSyncManager,PermissionStatus,Permissions,PictureInPictureEvent,PictureInPictureWindow,PushManager,PushSubscription,PushSubscriptionOptions,RemotePlayback,Scheduler,TaskController,TaskPriorityChangeEvent,TaskSignal,SharedWorker,SpeechSynthesisErrorEvent,SpeechSynthesisEvent,SpeechSynthesisUtterance,TrustedHTML,TrustedScript,TrustedScriptURL,TrustedTypePolicy,TrustedTypePolicyFactory,URLPattern,VideoPlaybackQuality,VirtualKeyboardGeometryChangeEvent,XSLTProcessor,webkitSpeechGrammar,webkitSpeechGrammarList,webkitSpeechRecognition,webkitSpeechRecognitionError,webkitSpeechRecognitionEvent,openDatabase,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,cdc_adoQpoasnfa76pfcZLmcfl_Array,cdc_adoQpoasnfa76pfcZLmcfl_Promise,cdc_adoQpoasnfa76pfcZLmcfl_Symbol
+[1647020826.876][INFO]: Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 52508
+[1647020826.876][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1647020827.692][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "extensions": [  ]
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [  ],
+         "extensions": [  ]
+      }
+   }
+}
+[1647020827.696][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1647020827.696][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1647020827.699][INFO]: Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --allow-pre-commit-input --disable-background-networking --disable-backgrounding-occluded-windows --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-blink-features=ShadowDOMV0 --enable-logging --log-level=0 --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ahmet\AppData\Local\Temp\scoped_dir73764_234119869" data:,
+[1647020828.243][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1647020828.249][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "99.0.4844.51",
+      "chrome": {
+         "chromedriverVersion": "99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})",
+         "userDataDir": "C:\\Users\\ahmet\\AppData\\Local\\Temp\\scoped_dir73764_234119869"
+      },
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:53693"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "windows",
+      "proxy": {
+
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:extension:credBlob": true,
+      "webauthn:extension:largeBlob": true,
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "b7a62c43ac541be18f8f26a4a34c8a02"
+}
+[1647020828.416][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] COMMAND Navigate {
+   "url": "file:///C:/Users/ahmet/OneDrive/Documents/GitHub/chromLogTest/src/test/java/client/index.html"
+}
+[1647020828.416][INFO]: Waiting for pending navigations...
+[1647020828.419][INFO]: Done waiting for pending navigations. Status: ok
+[1647020828.463][INFO]: Waiting for pending navigations...
+[1647020828.495][INFO]: Done waiting for pending navigations. Status: ok
+[1647020828.495][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] RESPONSE Navigate
+[1647020828.503][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] COMMAND GetTitle {
+
+}
+[1647020828.503][INFO]: Waiting for pending navigations...
+[1647020828.505][INFO]: Done waiting for pending navigations. Status: ok
+[1647020828.510][INFO]: Waiting for pending navigations...
+[1647020828.512][INFO]: Done waiting for pending navigations. Status: ok
+[1647020828.512][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] RESPONSE GetTitle "My Awesome Website Title"
+[1647020830.525][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] COMMAND Quit {
+
+}
+[1647020830.563][INFO]: [b7a62c43ac541be18f8f26a4a34c8a02] RESPONSE Quit
