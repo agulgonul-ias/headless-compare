@@ -18,8 +18,9 @@ public class Utilities {
 
         driver.get(url());
 
-        WebElement getOwnPropertyNames = driver.findElement(By.xpath("//div[@class='chromeLog']"));
-        WebElement getGlobalObjects = driver.findElement(By.xpath("//div[@class='globalLog']"));
+        WebElement getOwnPropertyNames = driver.findElement(By.id("chromeLog"));
+        WebElement getGlobalObjects = driver.findElement(By.id("globalLog"));
+
 
         String getOwnPropertyLogs = getOwnPropertyNames.getText();
         String getGlobalLogs = getGlobalObjects.getText();

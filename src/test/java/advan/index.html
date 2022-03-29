@@ -41,11 +41,12 @@
 <script src="/js/client.js"></script>
 
 <h4>Browser logs</h4>
-<div class="chromeLog">
+<div id="chromeLog">
     <script>
         document.write(Object.getOwnPropertyNames(window));
 
 <!--native to window-->
+
 
     </script>
 </div>
@@ -54,9 +55,60 @@
     <br>
 </div>
 <h4>Global logs</h4>
-<div class="globalLog">
+<h4> document.write(Object.keys( window ))================</h4>
+<div id="globalLog">
     <script>
         document.write(Object.keys( window ));
+
+
+
+    </script>
+</div>
+
+<h4>Browser logs</h4>
+<h4> document.write(JSON.stringify(Object.getOwnPropertyNames(window))====================
+</h4>
+<div id="chromeLog">
+    <script>
+        document.write(JSON.stringify(Object.getOwnPropertyNames(window)));
+
+        <!--native to window-->
+
+
+    </script>
+</div>
+
+<div>
+    <br>
+    <br>
+</div>
+
+
+<h4>recur logs</h4>
+<div class="chromeLog">
+    <script>
+    let recur = function(obj) {
+  var result = {}, _tmp;
+  for (let i in obj) {
+    // enabledPlugin is too nested, also skip functions
+    if (i === 'enabledPlugin' || typeof obj[i] === 'function') {
+        continue;
+    } else if (typeof obj[i] === 'object') {
+        // get props recursively
+        _tmp = recur(obj[i]);
+        // if object is not {}
+        if (Object.keys(_tmp).length) {
+            result[i] = _tmp;
+        }
+    } else {
+        // string, number or boolean
+        result[i] = obj[i];
+    }
+  }
+  return result;
+}
+
+        document.write(JSON.stringify(recur(navigator)));
 
 
     </script>

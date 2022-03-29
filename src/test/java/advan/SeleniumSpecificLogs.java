@@ -9,9 +9,10 @@ import java.util.List;
 
 public class SeleniumSpecificLogs {
 
-    //checking the selenium specific logs with underscore
+    //add Log.txt file to the project and copy the name of the file here as file1.
     static String file1 = "manual-chrome-getGlobalLogs.txt";
-    static String file2 = "manual-chrome-getOwnPropertyLogs.txt";
+    //checking the selenium specific logs with underscore
+    //write the file name above and check if the file constain any selenium specific logs
     public static void main(String[] args) throws IOException {
 
         File Logs = new File(file1);
